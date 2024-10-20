@@ -1,7 +1,13 @@
 {
   "expo": {
+    "entryPoint": "./src/Main.js",
     "name": "PasswordGenerator",
     "slug": "PasswordGenerator",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "40d36dd6-2533-49dd-bc1e-aca1a322e17c"
+      }
+    }
   }
 }
